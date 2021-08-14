@@ -1,0 +1,2 @@
+# Social-Distance-Tracker-
+The Covid-19 had a huge impact on different sectors in many countries and such impact caused problems to many people around the world. This small step of wearing a face mask as well as following social distancing would save lots of lives as the spread of the virus could be mitigated.  In order to make it possible governments are monitoring people daily . This become very hard task because it is impossible to check each and every person whether they are following social distancing. 
